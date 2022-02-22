@@ -1,1 +1,1 @@
-# Populismus-Text-Analysis
+# Automatic Analysis of Populismus in Text
