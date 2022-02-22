@@ -3,3 +3,5 @@
 ## 👀 Literature Overview
 
 ## 📚 Datasets
+* 6861 **Reddit** comments (_populistic attitudes_, Cabot et al. 2021)
+* *
