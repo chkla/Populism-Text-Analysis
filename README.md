@@ -38,3 +38,4 @@
 * speeches on paragraph-level, Dai/Kustov (2022)
 
 ## 🗣 Talks, workshops and seminars on automatic populism analysis
+* The Populism Seminar [[Link]](https://populism-seminar.com)
