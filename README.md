@@ -3,6 +3,7 @@
 ### Text Analysis
 * Dai/Kustov (2022): When Do Politicians Use Populist Rhetoric? Populism as a Campaign Gamble [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/10584609.2022.2025505?src=&journalCode=upcp20)
 * Cocco/ Monechi(2021): How Populist are Parties? Measuring Degrees of Populism in Party Manifestos Using Supervised Machine Learning [[Paper]](https://www.cambridge.org/core/journals/political-analysis/article/how-populist-are-parties-measuring-degrees-of-populism-in-party-manifestos-using-supervised-machine-learning/1D6141AAAE400ADAD9935044A0719B32)
+* Cassell (2021): The comparative effectiveness of populist rhetoric in generating online engagement [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0261379421000780?via%3Dihub)
 * Trau (2019): Talking about, for, and to the People: Populism and Representation in Parliamentary Debates on Europe [[Paper]](https://www.degruyter.com/document/doi/10.1515/zaa-2019-0025/html)
 * Dai (2018): Measuring populism in context: A supervised approach with word embedding models [[Paper]](https://yaoyaodai.github.io/files/Dai_Populism.pdf)
 * Sturz/ Bernauer (2018): Supply and Demand of Populism: A Quantitative Text Analysis of Cantonal SVP Manifestos [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/spsr.12332)
