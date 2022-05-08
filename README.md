@@ -2,6 +2,7 @@
 ## Political Science 
 ### Text Analysis
 * Dai/Kustov (2022): When Do Politicians Use Populist Rhetoric? Populism as a Campaign Gamble [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/10584609.2022.2025505?src=&journalCode=upcp20)
+* Schürmann/ Gründl (2022): Yelling from the sidelines? How German parties employ populist and crisis-related messages on Facebook [[Paper]](https://www.tandfonline.com/doi/full/10.1080/2474736X.2021.2021095)
 * Cocco/ Monechi(2021): How Populist are Parties? Measuring Degrees of Populism in Party Manifestos Using Supervised Machine Learning [[Paper]](https://www.cambridge.org/core/journals/political-analysis/article/how-populist-are-parties-measuring-degrees-of-populism-in-party-manifestos-using-supervised-machine-learning/1D6141AAAE400ADAD9935044A0719B32)
 * Cassell (2021): The comparative effectiveness of populist rhetoric in generating online engagement [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0261379421000780?via%3Dihub)
 * Cassell (2021): The Populist Communication Strategy in Comparative Perspective [[Paper]](https://journals.sagepub.com/doi/abs/10.1177/19401612211055695)
