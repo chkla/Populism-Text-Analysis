@@ -26,7 +26,7 @@
 * Hawkins/ Kaltwasser (2017): What the (Ideational) Study of Populism Can Teach Us, and What It Can't [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12281)
 * Canovan (1999): Trust the People! Populism and the Two Faces of Democracy [[Paper]](https://journals.sagepub.com/doi/abs/10.1111/1467-9248.00184?casa_token=ihoEu7KpEUcAAAAA%3AJgb4f-dlzBuy5DHXa2Op4HTeXiT7W7JeN5mJc0RzA9IQRbNt6qMPEyRyurUBd3miwH_4xpkFUqQ&journalCode=psxa)
 
-### Natural Language Processing
+## Natural Language Processing
 * Cabot et al. (2021): Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions [[Paper]](https://aclanthology.org/2021.eacl-main.165.pdf)
 * Rehbein et al. (2021): Who is we? Disambiguating the referents of first person plural pronouns in parliamentary debates [[Paper]](https://aclanthology.org/2021.konvens-1.13.pdf)
 * Sim et al. (2013): Measuring Ideological Proportions in Political Speeches [[Paper]](https://aclanthology.org/D13-1010.pdf)
