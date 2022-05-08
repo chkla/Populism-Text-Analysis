@@ -1,4 +1,4 @@
-# 👀 Literature review on automatic analysis of populismus in text across the disciplines
+# 👀 Literature on automatic analysis of populismus in text across the disciplines
 ## Political Science 
 ### Text Analysis
 * Dai/Kustov (2022): When Do Politicians Use Populist Rhetoric? Populism as a Campaign Gamble [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/10584609.2022.2025505?src=&journalCode=upcp20)
