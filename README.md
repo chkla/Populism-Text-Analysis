@@ -6,6 +6,7 @@
 * Trau (2019): Talking about, for, and to the People: Populism and Representation in Parliamentary Debates on Europe [[Paper]](https://www.degruyter.com/document/doi/10.1515/zaa-2019-0025/html)
 * Dai (2018): Measuring populism in context: A supervised approach with word embedding models [[Paper]](https://yaoyaodai.github.io/files/Dai_Populism.pdf)
 * Sturz/ Bernauer (2018): Supply and Demand of Populism: A Quantitative Text Analysis of Cantonal SVP Manifestos [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/spsr.12332)
+* Halterman et al. (2018): How Right Wing is Right Wing Populism? Evidence from the Manifesto Corpus [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3267487)
 * Bonikowski/ Gidron 2016: The Populist Style in American Politics: Presidential Campaign Discours [[Paper]](https://scholar.harvard.edu/files/bonikowski/files/bonikowski_and_gidron_-_the_populist_style_in_american_politics.pdf)
 
 ### Background
