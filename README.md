@@ -16,6 +16,7 @@
 * Flores-González (2021): The populist trinity of communication, ideology, and strategy: A proposal to enhance the analysis of populist discourses [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/lamp.12220)
 * Juen et al. (2021): Who wants COVID-19 vaccination to be compulsory? The impact of party cues, left-right ideology, and populism [[Paper]](https://journals.sagepub.com/doi/full/10.1177/02633957211061999)
 * Fölscher et al. (2021): Populist parties shifting the political discourse? A case study of the Economic Freedom Fighters in South Africa [[Paper]](https://www.cambridge.org/core/journals/journal-of-modern-african-studies/article/abs/populist-parties-shifting-the-political-discourse-a-case-study-of-the-economic-freedom-fighters-in-south-africa/100AABF3BE5195E57F79B4EAC1CC881B)
+* Gennaro et al. (2021): Mobilization and the Strategy of Populism Theory and Evidence from the United States
 * Alexander Wuttke, Christian Schimpf & Harald Schoen (2020): When the Whole is Greater Than the Sum of its Parts: On the Conceptualization and Measurement of Populist Attitudes and Other Multi-dimensional Constructs. In: American Political Science Review, 2020: 114, Heft 2, S. 356-374. [[Paper]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4B025EF483E1564EF495972540E5A34D/S0003055419000807a.pdf/when-the-whole-is-greater-than-the-sum-of-its-parts-on-the-conceptualization-and-measurement-of-populist-attitudes-and-other-multidimensional-constructs.pdf)
 * Devinney/ Hartwell (2020): Varieties of populism [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/gsj.1373)
 * Osuna (2020): From chasing populists to deconstructing populism: A new multidimensional approach to understanding and comparing populism [[Paper]](https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12428)
@@ -37,5 +38,5 @@
 * manifestos on sentence-level, (Cocco/ Monechi 2021)
 * speeches on paragraph-level, Dai/Kustov (2022)
 
-## 🗣 Talks, workshops and seminars on automatic populism analysis
+## 🗣 Talks, workshops and seminars on populism
 * The Populism Seminar [[Link]](https://populism-seminar.com)
