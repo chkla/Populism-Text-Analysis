@@ -16,6 +16,7 @@
 * Bonikowski/ Gidron 2016: The Populist Style in American Politics: Presidential Campaign Discours [[Paper]](https://scholar.harvard.edu/files/bonikowski/files/bonikowski_and_gidron_-_the_populist_style_in_american_politics.pdf)
 
 ### Background
+* Kustov (2022): Testing the backlash argument: voter responses to (pro-)immigration reforms [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/13501763.2022.2061034?needAccess=true&journalCode=rjpp20)
 * Böhmelt et al. (2022): Populism and intra-party democracy [[Paper]](https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12509#ejpr12509-bib-0024)
 * Hunger/ Paxton (2021): What's in a buzzword? A systematic review of the state of populism research in political science [[Paper]](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/whats-in-a-buzzword-a-systematic-review-of-the-state-of-populism-research-in-political-science/D9CD5E7E13DFA30FD05D41F32E6C122B)
 * Flores-González (2021): The populist trinity of communication, ideology, and strategy: A proposal to enhance the analysis of populist discourses [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/lamp.12220)
@@ -27,6 +28,7 @@
 * Marcos-Marne (2021): The Effects of Basic Human Values on Populist Voting. An Analysis of 13 European Democracies [[Paper]](https://link.springer.com/article/10.1007/s11109-021-09689-8)
 * Zaslove et al. (2021): Power to the people? Populism, democracy, and political participation: a citizen's perspective [[Paper]](https://www.tandfonline.com/doi/full/10.1080/01402382.2020.1776490)
 * Bayram/ Thomson (2021) Ignoring the Messenger? Limits of Populist Rhetoric on Public Support for Foreign Development Aid [[Paper]](https://academic.oup.com/isq/article-abstract/66/1/sqab041/6299665?redirectedFrom=fulltext)
+* Flores-González et al. (2021): The populist trinity of communication, ideology, and strategy: A proposal to enhance the analysis of populist discourses [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/lamp.12220)
 * Hameleers/ Fawzi (2020): Widening the Divide between Them and Us? The Effects of Populist Communication on Cognitive and Affective Stereotyping in a Comparative European Setting. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1723754)
 * Devinney/ Hartwell (2020): Varieties of populism [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/gsj.1373)
 * Osuna (2020): From chasing populists to deconstructing populism: A new multidimensional approach to understanding and comparing populism [[Paper]](https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12428)
