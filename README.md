@@ -23,6 +23,7 @@
 * Meijers/Zaslove (2020): Measuring Populism in Political Parties: Appraisal of a New Approach [[Paper]](https://journals.sagepub.com/doi/full/10.1177/0010414020938081)
 * Leininger/ Meijers (2020): Do Populist Parties Increase Voter Turnout? Evidence From Over 40 Years of Electoral History in 31 European Democracies [[Paper]](https://journals.sagepub.com/doi/full/10.1177/0032321720923257)
 * Bos et al. (2020): The effects of populism as a social identity frame on persuasion and mobilisation: Evidence from a 15-country experiment [[Paper]](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12334)
+* Rooduijn (2018): State of the field: How to study populism and adjacent topics? A plea for both more and less focus [[Paper]](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12314)
 * Manucci/ Weber (2017): Why The Big Picture Matters: Political and Media Populism in Western Europe since the 1970s [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/spsr.12267)
 * Akkerman, Zaslove, Spruyt (2017): ‘We the People’ or ‘We the Peoples’? A Comparison of Support for the Populist Radical Right and Populist Radical Left in the Netherlands [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/spsr.12275)
 * Hawkins/ Kaltwasser (2017): What the (Ideational) Study of Populism Can Teach Us, and What It Can't [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12281)
