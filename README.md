@@ -20,6 +20,7 @@
 * Osuna (2020): From chasing populists to deconstructing populism: A new multidimensional approach to understanding and comparing populism [[Paper]](https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12428)
 * Manucci/ Weber (2017): Why The Big Picture Matters: Political and Media Populism in Western Europe since the 1970s [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/spsr.12267)
 * Akkerman, Zaslove, Spruyt (2017): ‘We the People’ or ‘We the Peoples’? A Comparison of Support for the Populist Radical Right and Populist Radical Left in the Netherlands [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/spsr.12275)
+* Hawkins/ Kaltwasser (2017): What the (Ideational) Study of Populism Can Teach Us, and What It Can't [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12281)
 * Canovan (1999): Trust the People! Populism and the Two Faces of Democracy [[Paper]](https://journals.sagepub.com/doi/abs/10.1111/1467-9248.00184?casa_token=ihoEu7KpEUcAAAAA%3AJgb4f-dlzBuy5DHXa2Op4HTeXiT7W7JeN5mJc0RzA9IQRbNt6qMPEyRyurUBd3miwH_4xpkFUqQ&journalCode=psxa)
 
 ### Natural Language Processing
