@@ -36,6 +36,7 @@
 * Neuner/ Wratil (2020): The Populist Marketplace: Unpacking the Role of “Thin” and “Thick” Ideology [[Paper]](https://link.springer.com/article/10.1007/s11109-020-09629-y)
 * Van Hauwaert/ Kaltwasser (2019): The populist citizen: Empirical evidence from Europe and Latin America [[Paper]](https://www.cambridge.org/core/journals/european-political-science-review/article/populist-citizen-empirical-evidence-from-europe-and-latin-america/9EF0B5D6FD6815376E0178D54DE79CAD)
 * Rooduijn (2018): State of the field: How to study populism and adjacent topics? A plea for both more and less focus [[Paper]](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12314)
+* Mudde/ Kaltwasser (2018): Studying Populism in Comparative Perspective: Reflections on the Contemporary and Future Research Agenda [[Paper]](https://journals.sagepub.com/doi/abs/10.1177/0010414018789490?journalCode=cpsa)
 * Manucci/ Weber (2017): Why The Big Picture Matters: Political and Media Populism in Western Europe since the 1970s [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/spsr.12267)
 * Akkerman, Zaslove, Spruyt (2017): ‘We the People’ or ‘We the Peoples’? A Comparison of Support for the Populist Radical Right and Populist Radical Left in the Netherlands [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/spsr.12275)
 * Hawkins/ Kaltwasser (2017): What the (Ideational) Study of Populism Can Teach Us, and What It Can't [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12281)
