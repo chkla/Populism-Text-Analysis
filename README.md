@@ -8,6 +8,7 @@
 * Lacatus (2020): Populism and President Trump’s approach to foreign policy: An analysis of tweets and rally speeches [[Paper]](https://journals.sagepub.com/doi/full/10.1177/0263395720935380)
 * Gründl (2020): Populist ideas on social media: A dictionary-based measurement of populist communication [[Paper]](https://journals.sagepub.com/doi/full/10.1177/1461444820976970)
 * Trau (2019): Talking about, for, and to the People: Populism and Representation in Parliamentary Debates on Europe [[Paper]](https://www.degruyter.com/document/doi/10.1515/zaa-2019-0025/html)
+* Lacatus (2018): Populism and the 2016 American Election: Evidence from Official Press Releases and Twitter [[Paper]](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/populism-and-the-2016-american-election-evidence-from-official-press-releases-and-twitter/0DF05071D1B5AEF41772498A2C4F0BE0#)
 * Dai (2018): Measuring populism in context: A supervised approach with word embedding models [[Paper]](https://yaoyaodai.github.io/files/Dai_Populism.pdf)
 * Sturz/ Bernauer (2018): Supply and Demand of Populism: A Quantitative Text Analysis of Cantonal SVP Manifestos [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/spsr.12332)
 * Halterman et al. (2018): How Right Wing is Right Wing Populism? Evidence from the Manifesto Corpus [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3267487)
