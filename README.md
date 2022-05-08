@@ -34,6 +34,7 @@
 
 ## 📚 Datasets
 * 6861 **Reddit** comments (_populistic attitudes_, Cabot et al. 2021)
-* 
+* manifestos on sentence-level, (Cocco/ Monechi 2021)
+* speeches on paragraph-level, Dai/Kustov (2022)
 
 ## 🗣 Talks, workshops and seminars on automatic populism analysis
