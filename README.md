@@ -13,7 +13,7 @@
 * Dai (2018): Measuring populism in context: A supervised approach with word embedding models [[Paper]](https://yaoyaodai.github.io/files/Dai_Populism.pdf)
 * Sturz/ Bernauer (2018): Supply and Demand of Populism: A Quantitative Text Analysis of Cantonal SVP Manifestos [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/spsr.12332)
 * Halterman et al. (2018): How Right Wing is Right Wing Populism? Evidence from the Manifesto Corpus [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3267487)
-* Bonikowski/ Gidron 2016: The Populist Style in American Politics: Presidential Campaign Discours [[Paper]](https://scholar.harvard.edu/files/bonikowski/files/bonikowski_and_gidron_-_the_populist_style_in_american_politics.pdf)
+* Bonikowski/ Gidron (2016): The Populist Style in American Politics: Presidential Campaign Discours [[Paper]](https://scholar.harvard.edu/files/bonikowski/files/bonikowski_and_gidron_-_the_populist_style_in_american_politics.pdf)
 
 ### Background
 * Kustov (2022): Testing the backlash argument: voter responses to (pro-)immigration reforms [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/13501763.2022.2061034?needAccess=true&journalCode=rjpp20)
