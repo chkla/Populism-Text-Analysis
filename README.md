@@ -1,8 +1,12 @@
-# 👀 Literature on automatic analysis of populism in text across the disciplines
-## Political Science 
+# Ressources 📚🤖📄🗣 on automatic analysis of populism in text across the disciplines
+In my research on this topic, I came across several papers. This open repository is intended to provide an overview of the current state of automatic populism detection. Since I' sure I've missed some papers or datasets, this repository will be open to anyone who would like to contribute as a contributor. You can also open a pull request ⬆️ or send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm))for any paper, dataset, workshop etc. you come across.
+
+## 📄 Literature
 ### Text Analysis
 * Dai/Kustov (2022): When Do Politicians Use Populist Rhetoric? Populism as a Campaign Gamble [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/10584609.2022.2025505?src=&journalCode=upcp20)
 * Schürmann/ Gründl (2022): Yelling from the sidelines? How German parties employ populist and crisis-related messages on Facebook [[Paper]](https://www.tandfonline.com/doi/full/10.1080/2474736X.2021.2021095)
+* Cabot et al. (2021): Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions [[Paper]](https://aclanthology.org/2021.eacl-main.165.pdf)
+* Rehbein et al. (2021): Who is we? Disambiguating the referents of first person plural pronouns in parliamentary debates [[Paper]](https://aclanthology.org/2021.konvens-1.13.pdf)
 * Cocco/ Monechi(2021): How Populist are Parties? Measuring Degrees of Populism in Party Manifestos Using Supervised Machine Learning [[Paper]](https://www.cambridge.org/core/journals/political-analysis/article/how-populist-are-parties-measuring-degrees-of-populism-in-party-manifestos-using-supervised-machine-learning/1D6141AAAE400ADAD9935044A0719B32)
 * Cassell (2021): The comparative effectiveness of populist rhetoric in generating online engagement [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0261379421000780?via%3Dihub)
 * Cassell (2021): The Populist Communication Strategy in Comparative Perspective [[Paper]](https://journals.sagepub.com/doi/abs/10.1177/19401612211055695)
@@ -14,8 +18,9 @@
 * Sturz/ Bernauer (2018): Supply and Demand of Populism: A Quantitative Text Analysis of Cantonal SVP Manifestos [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/spsr.12332)
 * Halterman et al. (2018): How Right Wing is Right Wing Populism? Evidence from the Manifesto Corpus [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3267487)
 * Bonikowski/ Gidron (2016): The Populist Style in American Politics: Presidential Campaign Discours [[Paper]](https://scholar.harvard.edu/files/bonikowski/files/bonikowski_and_gidron_-_the_populist_style_in_american_politics.pdf)
+* Sim et al. (2013): Measuring Ideological Proportions in Political Speeches [[Paper]](https://aclanthology.org/D13-1010.pdf)
 
-### Background
+### Others
 * Kustov (2022): Testing the backlash argument: voter responses to (pro-)immigration reforms [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/13501763.2022.2061034?needAccess=true&journalCode=rjpp20)
 * Böhmelt et al. (2022): Populism and intra-party democracy [[Paper]](https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12509#ejpr12509-bib-0024)
 * Hunger/ Paxton (2021): What's in a buzzword? A systematic review of the state of populism research in political science [[Paper]](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/whats-in-a-buzzword-a-systematic-review-of-the-state-of-populism-research-in-political-science/D9CD5E7E13DFA30FD05D41F32E6C122B)
@@ -49,12 +54,6 @@
 * Hawkins/ Kaltwasser (2017): What the (Ideational) Study of Populism Can Teach Us, and What It Can't [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12281)
 * Huber/ Schimpf (2015): Friend or Foe? Testing the Influence of Populism on Democratic Quality in Latin America [[Paper]](https://journals.sagepub.com/doi/abs/10.1111/1467-9248.12219)
 * Canovan (1999): Trust the People! Populism and the Two Faces of Democracy [[Paper]](https://journals.sagepub.com/doi/abs/10.1111/1467-9248.00184?casa_token=ihoEu7KpEUcAAAAA%3AJgb4f-dlzBuy5DHXa2Op4HTeXiT7W7JeN5mJc0RzA9IQRbNt6qMPEyRyurUBd3miwH_4xpkFUqQ&journalCode=psxa)
-
-## Natural Language Processing
-* Cabot et al. (2021): Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions [[Paper]](https://aclanthology.org/2021.eacl-main.165.pdf)
-* Rehbein et al. (2021): Who is we? Disambiguating the referents of first person plural pronouns in parliamentary debates [[Paper]](https://aclanthology.org/2021.konvens-1.13.pdf)
-* Sim et al. (2013): Measuring Ideological Proportions in Political Speeches [[Paper]](https://aclanthology.org/D13-1010.pdf)
-
 
 ## 📚 Datasets
 * 6861 **Reddit** comments (_populistic attitudes_, Cabot et al. 2021)
