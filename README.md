@@ -7,7 +7,7 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 * Schürmann/ Gründl (2022): Yelling from the sidelines? How German parties employ populist and crisis-related messages on Facebook [[Paper]](https://www.tandfonline.com/doi/full/10.1080/2474736X.2021.2021095)
 * Cabot et al. (2021): Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions [[Paper]](https://aclanthology.org/2021.eacl-main.165.pdf)
 * Rehbein et al. (2021): Who is we? Disambiguating the referents of first person plural pronouns in parliamentary debates [[Paper]](https://aclanthology.org/2021.konvens-1.13.pdf)
-* Cocco/ Monechi(2021): How Populist are Parties? Measuring Degrees of Populism in Party Manifestos Using Supervised Machine Learning [[Paper]](https://www.cambridge.org/core/journals/political-analysis/article/how-populist-are-parties-measuring-degrees-of-populism-in-party-manifestos-using-supervised-machine-learning/1D6141AAAE400ADAD9935044A0719B32)
+* Cocco/ Monechi(2021): How Populist are Parties? Measuring Degrees of Populism in Party Manifestos Using Supervised Machine Learning [[Paper]](https://www.cambridge.org/core/journals/political-analysis/article/how-populist-are-parties-measuring-degrees-of-populism-in-party-manifestos-using-supervised-machine-learning/1D6141AAAE400ADAD9935044A0719B32) [[Code]](https://github.com/bernomone/howPopParties_addendum)
 * Cassell (2021): The comparative effectiveness of populist rhetoric in generating online engagement [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0261379421000780?via%3Dihub)
 * Cassell (2021): The Populist Communication Strategy in Comparative Perspective [[Paper]](https://journals.sagepub.com/doi/abs/10.1177/19401612211055695)
 * Lacatus (2020): Populism and President Trump’s approach to foreign policy: An analysis of tweets and rally speeches [[Paper]](https://journals.sagepub.com/doi/full/10.1177/0263395720935380)
@@ -59,6 +59,7 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 * 6861 **Reddit** comments (_populistic attitudes_, Cabot et al. 2021)
 * manifestos on sentence-level, (Cocco/ Monechi 2021)
 * speeches on paragraph-level, (Dai/Kustov 2022)
+* tweets Commandini et al. https://github.com/GloriaComandini/Corpora/blob/master/POP-HS-IT.xlsx
 
 ## 🗣 Talks, workshops and seminars on populism
 * The Populism Seminar [[Link]](https://populism-seminar.com)
