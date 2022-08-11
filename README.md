@@ -1,5 +1,5 @@
 # Ressources 📚🤖📄🗣 for Automatic Populism Detection
-In my research 👨‍🔬 on this topic, I came across several papers and other resources. This open repository is intended to provide an overview of the current state of automatic populism detection. Since I' sure I've missed some ressources, this repository will be open to anyone who would like to contribute as a contributor 👥. You can also open a pull request ⬆️ or send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm))for any paper, dataset, workshop etc. you come across.
+In my research 👨‍🔬 on this topic, I came across several papers and other resources. This open repository is intended to provide an overview of the current state of automatic populism detection. Since I'm sure I've missed some ressources, this repository will be open to anyone who would like to contribute as a contributor 👥. You can also open a pull request ⬆️ or send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm)) for any paper, dataset, workshop etc. you come across.
 
 ## 📄 Literature
 ### Text Analysis
