@@ -59,10 +59,10 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 * Canovan (1999): Trust the People! Populism and the Two Faces of Democracy [[Paper]](https://journals.sagepub.com/doi/abs/10.1111/1467-9248.00184?casa_token=ihoEu7KpEUcAAAAA%3AJgb4f-dlzBuy5DHXa2Op4HTeXiT7W7JeN5mJc0RzA9IQRbNt6qMPEyRyurUBd3miwH_4xpkFUqQ&journalCode=psxa)
 
 ## 📚 Datasets
-* 6861 **Reddit** comments (_populistic attitudes_, Cabot et al. 2021)
-* manifestos on sentence-level, (Cocco/ Monechi 2021)
-* speeches on paragraph-level, (Dai/Kustov 2022)
-* tweets Commandini et al. https://github.com/GloriaComandini/Corpora/blob/master/POP-HS-IT.xlsx
+* Reddit comments (_populistic attitudes_, Cabot et al. 2021) [[Dataset]]()
+* manifestos on sentence-level, Cocco/ Monechi 2021 [[Dataset]](https://github.com/bernomone/howPopParties_addendum)
+* speeches on paragraph-level, Dai/Kustov 2022 [[Dataset]]()
+* tweets [[Dataset]](https://github.com/GloriaComandini/Corpora/blob/master/POP-HS-IT.xlsx)
 
 ## 🗣 Talks, workshops and seminars on populism
 * The Populism Seminar [[Link]](https://populism-seminar.com)
