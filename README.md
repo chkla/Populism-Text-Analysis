@@ -3,6 +3,7 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 
 ## 📄 Literature
 ### Text Analysis
+* Schwalbach (2022): Talking to the Populist Radical Right: A Comparative Analysis of Parliamentary Debates [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12397)
 * Dai/Kustov (2022): When Do Politicians Use Populist Rhetoric? Populism as a Campaign Gamble [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/10584609.2022.2025505?src=&journalCode=upcp20)
 * Schürmann/ Gründl (2022): Yelling from the sidelines? How German parties employ populist and crisis-related messages on Facebook [[Paper]](https://www.tandfonline.com/doi/full/10.1080/2474736X.2021.2021095)
 * Cabot et al. (2021): Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions [[Paper]](https://aclanthology.org/2021.eacl-main.165.pdf)
@@ -21,6 +22,7 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 * Sim et al. (2013): Measuring Ideological Proportions in Political Speeches [[Paper]](https://aclanthology.org/D13-1010.pdf)
 
 ### Others
+* Steiner/ Schimpf/ Wuttke (2022): Left Behind and United by Populism? Populism’s Multiple Roots in Feelings of Lacking Societal Recognition [[Paper]](https://link.springer.com/article/10.1007/s11615-022-00416-4)
 * Kustov (2022): Testing the backlash argument: voter responses to (pro-)immigration reforms [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/13501763.2022.2061034?needAccess=true&journalCode=rjpp20)
 * Böhmelt et al. (2022): Populism and intra-party democracy [[Paper]](https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12509#ejpr12509-bib-0024)
 * Hunger/ Paxton (2021): What's in a buzzword? A systematic review of the state of populism research in political science [[Paper]](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/whats-in-a-buzzword-a-systematic-review-of-the-state-of-populism-research-in-political-science/D9CD5E7E13DFA30FD05D41F32E6C122B)
