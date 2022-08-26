@@ -3,7 +3,7 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 
 ## 📄 Literature
 ### Text Analysis
-* Schwalbach (2022): Talking to the Populist Radical Right: A Comparative Analysis of Parliamentary Debates [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12397)
+* Schwalbach (2022): Talking to the Populist Radical Right: A Comparative Analysis of Parliamentary Debates [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12397) ~Dict
 * Lehmann/ Zehnter (2022): The Self-Proclaimed Defender of Freedom: The AfD and the Pandemic [[Paper]](https://www.cambridge.org/core/journals/government-and-opposition/article/selfproclaimed-defender-of-freedom-the-afd-and-the-pandemic/23F825A9D096CC5DD3C3B2142B582E3E)
 * Dai/Kustov (2022): When Do Politicians Use Populist Rhetoric? Populism as a Campaign Gamble [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/10584609.2022.2025505?src=&journalCode=upcp20)
 * Schürmann/ Gründl (2022): Yelling from the sidelines? How German parties employ populist and crisis-related messages on Facebook [[Paper]](https://www.tandfonline.com/doi/full/10.1080/2474736X.2021.2021095)
