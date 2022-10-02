@@ -24,6 +24,7 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 * Sim et al. (2013): Measuring Ideological Proportions in Political Speeches [[Paper]](https://aclanthology.org/D13-1010.pdf)
 
 ### Others
+* Moffitt (2022): How Do Populists Visually Represent 'The People'? A Systematic Comparative Visual Content Analysis of Donald Trump and Bernie Sanders' Instagram Accounts [[Paper]](https://www.academia.edu/79478117/How_Do_Populists_Visually_Represent_The_People_A_Systematic_Comparative_Visual_Content_Analysis_of_Donald_Trump_and_Bernie_Sanders_Instagram_Accounts?email_work_card=view-paper)
 * Otteni/ Weisskircher (2022): AfD gegen die Grünen? Rechtspopulismus und klimapolitische Polarisierung in Deutschland [[Paper]](https://www.degruyter.com/document/doi/10.1515/fjsb-2022-0022/html)
 * Steiner/ Schimpf/ Wuttke (2022): Left Behind and United by Populism? Populism’s Multiple Roots in Feelings of Lacking Societal Recognition [[Paper]](https://link.springer.com/article/10.1007/s11615-022-00416-4)
 * Kustov (2022): Testing the backlash argument: voter responses to (pro-)immigration reforms [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/13501763.2022.2061034?needAccess=true&journalCode=rjpp20)
