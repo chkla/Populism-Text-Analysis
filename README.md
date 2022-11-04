@@ -44,6 +44,7 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 * Flores-González et al. (2021): The populist trinity of communication, ideology, and strategy: A proposal to enhance the analysis of populist discourses [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/lamp.12220)
 * Huber et al. (2021): Is populism a challenge to European energy and climate policy? Empirical evidence across varieties of populism [[Paper]](https://www.tandfonline.com/doi/full/10.1080/13501763.2021.1918214)
 * Eberl et al. (2021): From populism to the “plandemic”: why populists believe in COVID-19 conspiracies [[Paper]](https://www.tandfonline.com/doi/full/10.1080/17457289.2021.1924730)
+* Caravantes (2021): Tensions between populist and feminist politics: The case of the Spanish left populist party Podemos [[Paper](https://journals.sagepub.com/doi/full/10.1177/0192512120931209)]
 * Huber (2020): The role of populist attitudes in explaining climate change skepticism and support for environmental protection [[Paper]](https://www.tandfonline.com/doi/full/10.1080/09644016.2019.1708186)
 * Hameleers/ Fawzi (2020): Widening the Divide between Them and Us? The Effects of Populist Communication on Cognitive and Affective Stereotyping in a Comparative European Setting. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1723754)
 * Devinney/ Hartwell (2020): Varieties of populism [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/gsj.1373)
