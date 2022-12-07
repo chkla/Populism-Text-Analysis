@@ -3,6 +3,7 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 
 ## 📄 Literature
 ### Text Analysis
+* Bonikowski et al. (2022): Politics as Usual? Measuring Populism, Nationalism, and Authoritarianism in U.S. Presidential Campaigns (1952–2020) with Neural Language Models [[Paper]](https://journals.sagepub.com/doi/full/10.1177/00491241221122317)[<img src="https://img.shields.io/badge/U.S.-Presidential_Campaigns-yellow"/>]()[<img src="https://img.shields.io/badge/-RoBERTa-red"/>]()
 * Breyer (2022): Populist positions in party competition: Do parties strategically vary their degree of populism in reaction to vote and office loss? [[Paper]](https://journals.sagepub.com/doi/full/10.1177/13540688221097082) [<img src="https://img.shields.io/badge/German_&_Austria_-Parliamentary_Debate_Speeches-yellow"/>](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN) parliamentary debate speeches
 * Schwalbach (2022): Talking to the Populist Radical Right: A Comparative Analysis of Parliamentary Debates [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12397) 
 [<img src="https://img.shields.io/badge/-wordshoal-red"/>](https://quanteda.io/reference/textmodel_wordshoal.html) [<img src="https://img.shields.io/badge/-ParlSpeech-yellow"/>](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN)
