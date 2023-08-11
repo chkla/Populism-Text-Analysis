@@ -34,6 +34,7 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 * Halterman et al. (2018): How Right Wing is Right Wing Populism? Evidence from the Manifesto Corpus [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3267487)
 * Bonikowski/ Gidron (2016): The Populist Style in American Politics: Presidential Campaign Discours [[Paper]](https://scholar.harvard.edu/files/bonikowski/files/bonikowski_and_gidron_-_the_populist_style_in_american_politics.pdf)
 * Sim et al. (2013): Measuring Ideological Proportions in Political Speeches [[Paper]](https://aclanthology.org/D13-1010.pdf)
+* Matthijs, R./ Taun, P. (2011): Measuring populism: Comparing two methods of content analysis [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/01402382.2011.616665)
 
 ### Others
 * Kaltwasser/ Taggart (2022): The Populist Radical Right and the Pandemic [[Special collection]](https://www.cambridge.org/core/journals/government-and-opposition/special-collections/the-populist-radical-right-and-the-pandemic)
@@ -78,6 +79,7 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 * Canovan (1999): Trust the People! Populism and the Two Faces of Democracy [[Paper]](https://journals.sagepub.com/doi/abs/10.1111/1467-9248.00184?casa_token=ihoEu7KpEUcAAAAA%3AJgb4f-dlzBuy5DHXa2Op4HTeXiT7W7JeN5mJc0RzA9IQRbNt6qMPEyRyurUBd3miwH_4xpkFUqQ&journalCode=psxa)
 
 ## 📚 Datasets
+* MoPe references of _the people_ and the _elite_ in parliamentary debates [[Dataset]]()
 * Reddit comments (_populistic attitudes_, Cabot et al. 2021) [[Dataset]]()
 * manifestos on sentence-level, Cocco/ Monechi 2021 [[Dataset]](https://github.com/bernomone/howPopParties_addendum)
 * speeches on paragraph-level, Dai/Kustov 2022 [[Dataset]]()
