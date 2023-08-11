@@ -3,8 +3,8 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 
 ## 📄 Literature
 ### Text Analysis
-Jankowski/ Huber (2023): When Correlation Is Not Enough: Validating Populism Scores from Supervised Machine-Learning Models [[Paper]](https://www.cambridge.org/core/journals/political-analysis/article/when-correlation-is-not-enough-validating-populism-scores-from-supervised-machinelearning-models/8CB3DCBECD1E37872074E7F8A9DE20BA?utm_source=hootsuite&utm_medium=twitter&utm_campaign=PAN_Jan23#) [<img src="https://img.shields.io/badge/Manifestos-yellow"/>]() [<img src="https://img.shields.io/badge/-supervised_machine_learning-red"/>]()
 <details>
+  Jankowski/ Huber (2023): When Correlation Is Not Enough: Validating Populism Scores from Supervised Machine-Learning Models [[Paper]](https://www.cambridge.org/core/journals/political-analysis/article/when-correlation-is-not-enough-validating-populism-scores-from-supervised-machinelearning-models/8CB3DCBECD1E37872074E7F8A9DE20BA?utm_source=hootsuite&utm_medium=twitter&utm_campaign=PAN_Jan23#) [<img src="https://img.shields.io/badge/Manifestos-yellow"/>]() [<img src="https://img.shields.io/badge/-supervised_machine_learning-red"/>]()
   <summary>tldr</summary>
   The paper critically examines Di Cocco and Monechi's (DCM) method of using supervised machine learning to predict parties' populism scores from election manifestos. It argues that DCM's validity checks are insufficient, and their approach may not accurately measure populism, emphasizing the need for comprehensive model validation.
 </details>
