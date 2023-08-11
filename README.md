@@ -3,6 +3,7 @@ In my research 👨‍🔬 on this topic, I came across several papers and other
 
 ## 📄 Literature
 ### Text Analysis
+* Klamm et al. (2023): Our kind of people? Detecting populist references in political debates [[Paper]](https://aclanthology.org/2023.findings-eacl.91.pdf) [<img src="https://img.shields.io/badge/German_-Parliamentary_Debate_Speeches-yellow"/>](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN)
 * Jankowski/ Huber (2023): When Correlation Is Not Enough: Validating Populism Scores from Supervised Machine-Learning Models [[Paper]](https://www.cambridge.org/core/journals/political-analysis/article/when-correlation-is-not-enough-validating-populism-scores-from-supervised-machinelearning-models/8CB3DCBECD1E37872074E7F8A9DE20BA?utm_source=hootsuite&utm_medium=twitter&utm_campaign=PAN_Jan23#) [<img src="https://img.shields.io/badge/Manifestos-yellow"/>]() [<img src="https://img.shields.io/badge/-supervised_machine_learning-red"/>]()
   <details>
     <summary>tldr</summary>
